@@ -36,7 +36,10 @@ Banir ou restringir usuários - Administradores podem restringir os comentários
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Administrador
+Usuário (Logado e não Logado)
+Jogo
+
 
 
 ----
