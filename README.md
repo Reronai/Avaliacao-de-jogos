@@ -36,9 +36,11 @@ Banir ou restringir usuários - Administradores podem restringir os comentários
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Administrador
-Usuário (Logado e não Logado)
-Jogo
+- **Administrador**
+- **Usuário (Logado e não Logado)**
+- **Jogo**
+- **Campo de comentários e avaliações**
+  
 
 
 
